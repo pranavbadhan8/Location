@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+* {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+#heading {
+  font-size: 50px;
+  margin: 40px 0 16px 40px;
+}
+
+#details {
+  margin: 0 0 16px 40px;
+  padding: 12px 50px;
+  background-color: black;
+  color:azure;
+  border: none;
+  border-radius: 6px;
+}
+
